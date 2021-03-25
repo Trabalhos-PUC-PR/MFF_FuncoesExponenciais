@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # definindo um vetor com todos os pontos que usaremos no gráfico
-#x = np.array([np.NINF, np.inf])
+#x = np.array([np.NINF, np.inf]) #aqui eu mudei manualmente pra ver o que acontecia se o array tivesse 2 pontos infinitos (não deu certo!)
 
 # Podemos usar a função np.arange para 
 # criar um gráfico com mais pontos
