@@ -1,0 +1,35 @@
+[
+    {
+        "nome": "Pedro", 
+        "telefone":111111111, 
+        "data": "new Date()", 
+        "cor": "red",
+        "operadora": {
+            "nome": "Tim",
+            "codigo": 14,
+            "categoria": "Celular"
+        }
+    },
+    {
+        "nome": "Ana",
+        "telefone":222222222,
+        "data": "new Date()",
+        "cor": "green",
+        "operadora": {
+            "nome": "Vivo",
+            "codigo": 15,
+            "categoria": "Celular"
+        }
+    }, 
+    {
+       "nome": "Mike",
+       "telefone":333333333,
+       "data": "new Date()",
+       "cor": "blue",
+       "operadora": {
+           "nome": "Copel",
+           "codigo": 16,
+           "categoria": "Fixo"
+       }
+    }
+]
